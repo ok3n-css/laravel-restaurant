@@ -7,4 +7,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## This is a test project for CC's Informanagement 2
+## This is a test project for CC's Info Management 2. Stay tuned for more!
